@@ -6,3 +6,4 @@ BACKEND/.env
 BACKEND/.env.example
  FRONTEND/.env.example
  BACKEND/text
+.env.example
