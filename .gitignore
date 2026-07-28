@@ -1,0 +1,8 @@
+BACKEND/node_modules/
+FRONTEND/node_modules/
+FRONTEND/dist/
+BACKEND/.env
+*.log
+BACKEND/.env.example
+ FRONTEND/.env.example
+ BACKEND/text

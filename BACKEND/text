@@ -1,0 +1,21 @@
+mongodb+srv://karanannya412_db_user:JB%JjY.6T_yD8Yi@cluster0.7zxkdmm.mongodb.net/interview-master
+
+mongodb+srv://karanannya412_db_user:JB%JjY.6T_yD8Yi@cluster0.7zxkdmm.mongodb.net/interview-master
+
+
+
+mongodb+srv://karanannya412_db_user:JB%25JjY.6T_yD8Yi@cluster0.7zxkdmm.mongodb.net/interview-master?appName=Cluster0
+
+request(response in action:{
+    read,receipt: "User Login and authentication credentials required"
+    access: Private;
+    Tokens user: As per customer availability
+})
+
+require.request= constant user authentication
+
+original mongo uri:
+MONGO_URI= mongodb+srv://karanannya412_db_user:JB%25JjY.6T_yD8Yi@cluster0.7zxkdmm.mongodb.net/interview-master?appName=Cluster0
+
+
+mongodb+srv://karanannya412_db_user:<db_password>@cluster0.7zxkdmm.mongodb.net/
